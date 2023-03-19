@@ -1,9 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=150&section=header&text=PARK%20SUJIN&fontSize=30&fontColor=ffffff&&fontAlignY=33)
 
-<!--
-**s0ojin/s0ojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=s0ojin&show_icons=true&card_width=400px)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s0ojin)](https://solved.ac/s0ojin/)
