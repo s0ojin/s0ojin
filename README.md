@@ -23,7 +23,8 @@
 
 ### 📚Currently Studying on
 <p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff"/>&nbsp    
